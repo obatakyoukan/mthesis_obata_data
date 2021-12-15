@@ -1,4 +1,4 @@
-filename,vertices,edges,automorphism,original,CRGt10,CRGt100,CRGt1000
+filename,vertices,edges,automorphism,original,CRGt10[sec],CRGt100[sec],CRGt1000[sec]
 CHH_cc(1-1)_22-1,22,33,12.000000*10^0,0.000043,0.000076,0.000295,0.001761
 CHH_cc(1-1)_22-2,22,33,12.000000*10^0,0.000035,0.000062,0.000261,0.001615
 CHH_cc(2-1)_44-1,44,75,144.000000*10^0,0.000104,0.000155,0.000694,0.006057
